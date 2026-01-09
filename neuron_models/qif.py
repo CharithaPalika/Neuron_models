@@ -7,7 +7,6 @@ from PIL import Image
 import io
 
 from matplotlib import rcParams
-rcParams["font.family"] = "Times New Roman"
 rcParams["font.size"] = 12
 rcParams["axes.spines.top"] =  False
 rcParams["axes.spines.right"] = False

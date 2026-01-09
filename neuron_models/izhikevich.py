@@ -6,7 +6,6 @@ from matplotlib import rcParams
 import numpy as np
 import plotly.graph_objects as go
 import gradio as gr
-rcParams["font.family"] = "Times New Roman"
 rcParams["font.size"] = 14
 rcParams["axes.spines.top"] =  False
 rcParams["axes.spines.right"] = False
